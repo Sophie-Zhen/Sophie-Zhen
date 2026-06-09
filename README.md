@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Sophie 👋</h1>
 
 <p align="center">
-  <b>NLP / AI Engineer</b> · Dublin, Ireland 🇮🇪<br>
+  <b>AI / Software / NLP Engineer</b> · Dublin, Ireland 🇮🇪<br>
   MSc in Natural Language Processing — Dublin City University
 </p>
 
