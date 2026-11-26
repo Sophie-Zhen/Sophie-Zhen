@@ -3,7 +3,7 @@
 <p align="center">
   <b>PhD Researcher · LLM Interpretability &amp; AI Safety</b><br>
   Hamilton Institute, Maynooth University · Dublin, Ireland 🇮🇪<br>
-  MSc in Natural Language Processing — Dublin City University
+  MSc in Natural Language Processing — Dublin City University (top 5% of the School of Computing)
 </p>
 
 <p align="center">
