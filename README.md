@@ -19,7 +19,7 @@
 
 I'm a PhD researcher at the **Hamilton Institute, Maynooth University** (started October 2026), supervised by Prof. Jennifer Foster and co-supervised by Prof. Anya Belz (DCU). My project is *Understanding the behaviour of Large Language Models*: what goes on inside a model when it hallucinates or deceives, and whether we can detect it reliably.
 
-I came to AI after **13 years as a tax officer in Shanghai**, then retrained with an MSc in NLP. That background shows up in how I work: I care about correctness, edge cases, and claims that hold up under checking.
+I came to AI after **13 years as a tax officer in Shanghai**, then retrained with an MSc in NLP at DCU, graduating with **First Class Honours**. That background shows up in how I work: I care about correctness, edge cases, and claims that hold up under checking.
 
 My master's practicum translated **US tax statutes into executable Prolog** with LLMs — an early look at making model reasoning verifiable.
 
