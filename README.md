@@ -1,7 +1,8 @@
 <h1 align="center">Hi, I'm Sophie 👋</h1>
 
 <p align="center">
-  <b>AI / Software / NLP Engineer</b> · Dublin, Ireland 🇮🇪<br>
+  <b>PhD Researcher · LLM Interpretability &amp; AI Safety</b><br>
+  Hamilton Institute, Maynooth University · Dublin, Ireland 🇮🇪<br>
   MSc in Natural Language Processing — Dublin City University
 </p>
 
@@ -16,12 +17,15 @@
 
 ### About
 
-I build practical AI systems — LLM agents, NLP pipelines, and data tools that solve a real problem end to end. I came to engineering after **13 years as a tax officer in Shanghai**, then retrained with an MSc in NLP. That background shows up in how I work: I care about correctness, edge cases, and shipping something a person can actually rely on — not a demo.
+I'm a PhD researcher at the **Hamilton Institute, Maynooth University** (started October 2026), supervised by Prof. Jennifer Foster and co-supervised by Prof. Anya Belz (DCU). My project is *Understanding the behaviour of Large Language Models*: what goes on inside a model when it hallucinates or deceives, and whether we can detect it reliably.
 
-My master's practicum sat right at that intersection: translating **US tax statutes into executable Prolog** with LLMs. Domain knowledge plus language models is where I'm strongest.
+I came to AI after **13 years as a tax officer in Shanghai**, then retrained with an MSc in NLP. That background shows up in how I work: I care about correctness, edge cases, and claims that hold up under checking.
 
-- 🔭 Building **[jobpilot](https://github.com/Sophie-Zhen/jobpilot)** — a LangGraph job-search copilot with a human-in-the-loop checkpoint
-- 🌱 Going deep on agentic orchestration, retrieval, and evaluation
+My master's practicum translated **US tax statutes into executable Prolog** with LLMs — an early look at making model reasoning verifiable.
+
+- 🔬 Researching **deception in language models** — probing, sparse autoencoders, and behavioural evaluation
+- 🧪 Reproducing *Grokking* (Power et al., 2022) and *Detecting Strategic Deception Using Linear Probes* (Goldowsky-Dill et al., 2025) on a GPU cluster — repos go public when finished
+- 🤝 Open to research and engineering internships
 - 💬 Bilingual — English & Mandarin
 - 📫 Reach me at **sophieineu@gmail.com**
 
@@ -52,4 +56,4 @@ My master's practicum sat right at that intersection: translating **US tax statu
 
 ---
 
-<p align="center"><i>Career changer · domain expert · shipping AI that's actually useful.</i></p>
+<p align="center"><i>Career changer · domain expert · now asking why language models do what they do.</i></p>
